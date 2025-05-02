@@ -73,9 +73,9 @@ const Nav = () => {
 				<Link href="#how-it-works" className="text-gray-600 hover:text-blue-600 transition-colors">
 					How it Works
 				</Link>
-				<Link href="#testimonials" className="text-gray-600 hover:text-blue-600 transition-colors">
+				{/* <Link href="#testimonials" className="text-gray-600 hover:text-blue-600 transition-colors">
 					Testimonials
-				</Link>
+				</Link> */}
 			</div>
 			<div>
 				<Link href="/login">
